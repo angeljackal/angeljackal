@@ -1,3 +1,5 @@
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on getting certified in a career conversion course for Software QA.
