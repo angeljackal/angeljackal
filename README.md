@@ -10,6 +10,9 @@
 - ⚡ Fun fact: While I don't have a car, I love going on road trips overseas (leisure/work). Personal longest point to point trip thus far is from Boise to San Francisco.
 -->
 
-A new word cloud will be automatically generated when you [add your own word](https://github.com/angeljackal/angeljackal/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E). The prompt will change frequently, so be sure to come back and check it out :relaxed:
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
 
 
