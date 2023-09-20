@@ -1,4 +1,4 @@
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 
 ### Hi there 👋
 
@@ -9,7 +9,7 @@
 - 💬 Ask me about semiconductor industry (mainly Front-end)
 - 📫 How to reach me: ...
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: While I don't have a car, I love going on road trips overseas (leisure/work). Personal longest point to point trip thus far is from Boise to San Francisco.
+- ⚡ Fun fact: I love going on road trips overseas (leisure).
 -->
 
 ## 🔧 Technologies & Tools
